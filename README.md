@@ -2,8 +2,7 @@
 final project in the course Tabular Data Science  by Dr. Amit Somech in Bar-Ilan University
 
 # Installation
-Make sure that your current directory is the project folder.
-The Data folder need to be in the same directory as the script.
+Clone this project, Make sure thatThe Data and utils folders are in the same directory as the script.
 
 Install requirements: pip install -r requirements.txt
 
