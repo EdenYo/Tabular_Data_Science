@@ -9,4 +9,6 @@ Install requirements: pip install -r requirements.txt
 if nedded, you can install the required packaged from class via: pip install -r LibrariesFromClass.txt
 
 # run project
-run the Jupyter Notebook Tabular_Data_Science_Final_Project.ipynb
+run the Jupyter Notebook:
+
+Tabular_Data_Science_Final_Project.ipynb
